@@ -3,7 +3,9 @@ class addition3
 
 
 
-int a = 100;
+
+int a = 500;
+
 
 
   int b =200;
