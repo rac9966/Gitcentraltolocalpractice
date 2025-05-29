@@ -1,4 +1,4 @@
-int a =50;
+int a =100;
 int b = 20;
 a*b
   a =5;
