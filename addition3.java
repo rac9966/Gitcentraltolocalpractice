@@ -3,7 +3,7 @@ class addition3
 
 
 
-int a = 1000;
+int a = 100;
 
 
   int b =200;
