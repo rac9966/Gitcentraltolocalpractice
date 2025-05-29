@@ -1,7 +1,7 @@
 class addition3
   {
 
-int a = 800;
+int a = 8000;
 
 
 
